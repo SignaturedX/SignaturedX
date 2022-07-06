@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=signaturedx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signaturedx)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=signaturedx&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signaturedx&theme=tokyonight)
 
 <!--
 **SignaturedX/SignaturedX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
