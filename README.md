@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](github-readme-stats-sepia-gamma-63.vercel.app/api?username=signaturedx&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Anurag's GitHub stats](github-readme-stats-phi-six-40.vercel.app/api?username=signaturedx&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signaturedx&theme=tokyonight)
 
 <!--
