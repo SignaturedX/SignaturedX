@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋
+# hello! I'm Ben :D
 
 **Controller at Walton Systems**, building the bridge between finance and engineering.
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Ledger
+### my background
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@
 | **Education** | B.Comm, Accounting — Concordia University |
 | **Currently** | Pursuing the CPA designation |
 
-### Toolkit
+### toolkit
 
 <table>
 <tr>
@@ -28,14 +28,14 @@
 </tr>
 </table>
 
-### Off the clock
+### hobbies
 
-- 🎸 **Anime** — *Bocchi the Rock*, on repeat
-- 🌱 **Gardening** — slow compounding, seasonal reporting
-- ⛏️ **Minecraft** — another system of resources and long-term plans
-- 🏋️ **Gym** — progressive overload has a lot in common with variance analysis
-- 🃏 **Pokémon TCG** — collecting, trading, the occasional pull worth bragging about
+- 🎸 **Favorite Anime:** *Bocchi the Rock* >-<
+- 🌱 **Gardening** (the plants be growin')
+- **Minecraft** (creepuh)
+-  **Gym** (juicing and i mean apple juice)
+- **Pokémon TCG** — favorite hobby with mom
 
 ---
 
-<sub>Montréal · prepared in good faith</sub>
+<sub>jarvis blow up the cat</sub>
