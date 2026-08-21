@@ -29,12 +29,7 @@
 </table>
 
 ### hobbies
-
-- 🎸 **Favorite Anime:** *Bocchi the Rock* >-<
-- 🌱 **Gardening** (the plants be growin')
-- **Minecraft** (creepuh)
--  **Gym** (juicing and i mean apple juice)
-- **Pokémon TCG** — favorite hobby with mom
+🎸 **Favorite Anime:** *Bocchi the Rock* >-< | **Gardening** | **Minecraft** (creepuh) | **Gym** | **Pokémon TCG** — favorite hobby with mom |
 
 ---
 
